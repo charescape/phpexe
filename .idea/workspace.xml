@@ -2,68 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6441ea9f-ef74-4f93-a008-f7c3b10414c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/deplister.exe" beforeDir="false" afterPath="$PROJECT_DIR$/deplister.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/php7.lib" beforeDir="false" afterPath="$PROJECT_DIR$/dev/php7.lib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_bz2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_bz2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_com_dotnet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_com_dotnet.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_curl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_curl.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_dba.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_dba.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_enchant.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_enchant.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_exif.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_exif.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_ffi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_ffi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_fileinfo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_fileinfo.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_ftp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_ftp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_gd2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_gd2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_gettext.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_gettext.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_gmp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_gmp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_imap.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_imap.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_intl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_intl.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_ldap.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_ldap.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_mbstring.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_mbstring.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_mysqli.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_mysqli.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_oci8_12c.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_oci8_12c.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_odbc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_odbc.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_opcache.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_opcache.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_openssl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_openssl.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_pdo_firebird.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_pdo_firebird.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_pdo_mysql.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_pdo_mysql.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_pdo_oci.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_pdo_oci.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_pdo_odbc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_pdo_odbc.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_pdo_pgsql.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_pdo_pgsql.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_pdo_sqlite.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_pdo_sqlite.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_pgsql.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_pgsql.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_phpdbg_webhelper.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_phpdbg_webhelper.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_shmop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_shmop.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_snmp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_snmp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_soap.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_soap.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_sockets.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_sockets.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_sodium.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_sodium.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_sqlite3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_sqlite3.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_sysvshm.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_sysvshm.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_tidy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_tidy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_xmlrpc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_xmlrpc.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_xsl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_xsl.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/php_zend_test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ext/php_zend_test.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icudt65.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icuin65.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icuio65.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icuuc65.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libcrypto-1_1-x64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/libcrypto-1_1-x64.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libssl-1_1-x64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/libssl-1_1-x64.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news.txt" beforeDir="false" afterPath="$PROJECT_DIR$/news.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nghttp2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/nghttp2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharcommand.phar" beforeDir="false" afterPath="$PROJECT_DIR$/pharcommand.phar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-cgi.exe" beforeDir="false" afterPath="$PROJECT_DIR$/php-cgi.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-win.exe" beforeDir="false" afterPath="$PROJECT_DIR$/php-win.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php.exe" beforeDir="false" afterPath="$PROJECT_DIR$/php.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php.ini" beforeDir="false" afterPath="$PROJECT_DIR$/php.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php.ini-development" beforeDir="false" afterPath="$PROJECT_DIR$/php.ini-development" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php.ini-production" beforeDir="false" afterPath="$PROJECT_DIR$/php.ini-production" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php7.dll" beforeDir="false" afterPath="$PROJECT_DIR$/php7.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php7embed.lib" beforeDir="false" afterPath="$PROJECT_DIR$/php7embed.lib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php7phpdbg.dll" beforeDir="false" afterPath="$PROJECT_DIR$/php7phpdbg.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpdbg.exe" beforeDir="false" afterPath="$PROJECT_DIR$/phpdbg.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snapshot.txt" beforeDir="false" afterPath="$PROJECT_DIR$/snapshot.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpexe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594026691767</updated>
-      <workItem from="1594026695198" duration="68000" />
+      <workItem from="1594026695198" duration="264000" />
     </task>
     <servers />
   </component>
